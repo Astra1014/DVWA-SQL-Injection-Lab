@@ -8,11 +8,11 @@ The objective of this project was to install and configure Damn Vulnerable Web A
 
 ## Tools Used
 
-* Kali Linux
-* Apache2
-* PHP
-* MariaDB
-* DVWA (Damn Vulnerable Web Application)
+Kali Linux
+Apache2
+PHP
+MariaDB
+DVWA (Damn Vulnerable Web Application)
 
 ## Project Overview
 
